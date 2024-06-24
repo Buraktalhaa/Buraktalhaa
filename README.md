@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Python & Java</h3>
 
 - 🌱 I’m currently learning **html, css, javascript, react**
 
