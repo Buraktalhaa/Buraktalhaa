@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **Node.js and TypeScript**
 - 📫 How to reach me: **talha45879@gmail.com**
 
-### 🔗 Let's connect
-[💼 LinkedIn](https://www.linkedin.com/in/burak-talha-memiş-96a645246)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/burak-talha-memiş-96a645246)
+
 
 ### 🛠️ Languages and Tools
 <p align="left">
