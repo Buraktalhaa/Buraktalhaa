@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 
-- 🌱 I’m currently learning **html, css, javascript, react**
+- 🌱 I’m currently learning **Node.js and TypeScript**
 
 - 📫 How to reach me **talha45879@gmail.com**
 
